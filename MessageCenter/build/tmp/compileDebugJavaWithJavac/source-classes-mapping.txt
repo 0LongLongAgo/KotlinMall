@@ -1,0 +1,22 @@
+com/kotlin/message/data/repository/MessageRepository_Factory.java
+ com.kotlin.message.data.repository.MessageRepository_Factory
+com/kotlin/message/ui/fragment/MessageFragment_MembersInjector.java
+ com.kotlin.message.ui.fragment.MessageFragment_MembersInjector
+com/kotlin/message/injection/component/DaggerMessageComponent.java
+ com.kotlin.message.injection.component.DaggerMessageComponent
+ com.kotlin.message.injection.component.DaggerMessageComponent$1
+ com.kotlin.message.injection.component.DaggerMessageComponent$Builder
+ com.kotlin.message.injection.component.DaggerMessageComponent$com_kotlin_base_injection_component_ActivityComponent_context
+ com.kotlin.message.injection.component.DaggerMessageComponent$com_kotlin_base_injection_component_ActivityComponent_lifecycleProvider
+com/kotlin/message/service/impl/MessageServiceImpl_MembersInjector.java
+ com.kotlin.message.service.impl.MessageServiceImpl_MembersInjector
+com/kotlin/message/BuildConfig.java
+ com.kotlin.message.BuildConfig
+com/kotlin/message/injection/module/MessageModule_ProvideMessageServiceFactory.java
+ com.kotlin.message.injection.module.MessageModule_ProvideMessageServiceFactory
+com/kotlin/message/presenter/MessagePresenter_MembersInjector.java
+ com.kotlin.message.presenter.MessagePresenter_MembersInjector
+com/kotlin/message/service/impl/MessageServiceImpl_Factory.java
+ com.kotlin.message.service.impl.MessageServiceImpl_Factory
+com/kotlin/message/presenter/MessagePresenter_Factory.java
+ com.kotlin.message.presenter.MessagePresenter_Factory

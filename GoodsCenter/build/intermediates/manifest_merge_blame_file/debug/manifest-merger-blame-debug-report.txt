@@ -1,0 +1,38 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kotlin.goods"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="25" />
+9-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:6:5-17:19
+12        android:allowBackup="true"
+12-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:6:18-44
+13        android:label="@string/app_name"
+13-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:7:18-50
+14        android:supportsRtl="true" >
+14-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:8:18-44
+15        <activity android:name="com.kotlin.goods.ui.activity.GoodsActivity" />
+15-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:11:9-62
+15-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:11:19-60
+16        <activity android:name="com.kotlin.goods.ui.activity.SearchGoodsActivity" />
+16-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:12:9-68
+16-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:12:19-66
+17        <activity
+17-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:13:9-15:11
+18            android:name="com.kotlin.goods.ui.activity.GoodsDetailActivity"
+18-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:13:19-66
+19            android:theme="@style/AppTheme.Black" />
+19-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:14:9-46
+20        <activity android:name="com.kotlin.goods.ui.activity.CartActivity" />
+20-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:16:9-61
+20-->D:\BaiduYunDownload\KotlinMall\GoodsCenter\src\main\AndroidManifest.xml:16:19-59
+21    </application>
+22
+23</manifest>

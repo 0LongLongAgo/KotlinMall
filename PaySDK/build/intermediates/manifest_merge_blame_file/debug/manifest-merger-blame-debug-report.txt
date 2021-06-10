@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kotlin.pay"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="25" />
+9-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:6:5-66
+11-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:7:5-78
+12-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:8:5-75
+13-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:8:22-73
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:9:5-74
+14-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:9:22-72
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:10:5-80
+15-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:10:22-78
+16
+17    <application
+17-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:12:5-32:19
+18        android:allowBackup="true"
+18-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:12:18-44
+19        android:label="@string/app_name"
+19-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:13:18-50
+20        android:supportsRtl="true" >
+20-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:14:18-44
+21        <activity
+21-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:17:9-23:20
+22            android:name="com.alipay.sdk.app.H5PayActivity"
+22-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:18:17-64
+23            android:configChanges="orientation|keyboardHidden|navigation|screenSize"
+23-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:19:17-89
+24            android:exported="false"
+24-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:20:17-41
+25            android:screenOrientation="behind"
+25-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:21:17-51
+26            android:windowSoftInputMode="adjustResize|stateHidden" >
+26-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:22:17-71
+27        </activity>
+28        <activity
+28-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:24:9-30:20
+29            android:name="com.alipay.sdk.app.H5AuthActivity"
+29-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:25:17-65
+30            android:configChanges="orientation|keyboardHidden|navigation"
+30-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:26:17-78
+31            android:exported="false"
+31-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:27:17-41
+32            android:screenOrientation="behind"
+32-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:28:17-51
+33            android:windowSoftInputMode="adjustResize|stateHidden" >
+33-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:29:17-71
+34        </activity>
+35        <activity android:name="com.kotlin.pay.ui.activity.CashRegisterActivity" />
+35-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:31:9-69
+35-->D:\BaiduYunDownload\KotlinMall\PaySDK\src\main\AndroidManifest.xml:31:19-67
+36    </application>
+37
+38</manifest>

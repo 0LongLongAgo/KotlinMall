@@ -1,0 +1,4 @@
+#Sun Jun 06 09:15:57 CST 2021
+base.0=D\:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

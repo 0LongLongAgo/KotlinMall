@@ -1,0 +1,60 @@
+com/kotlin/order/presenter/EditShipAddressPresenter_Factory.java
+ com.kotlin.order.presenter.EditShipAddressPresenter_Factory
+com/kotlin/order/presenter/OrderConfirmPresenter_MembersInjector.java
+ com.kotlin.order.presenter.OrderConfirmPresenter_MembersInjector
+com/kotlin/order/presenter/OrderDetailPresenter_MembersInjector.java
+ com.kotlin.order.presenter.OrderDetailPresenter_MembersInjector
+com/kotlin/order/presenter/OrderListPresenter_MembersInjector.java
+ com.kotlin.order.presenter.OrderListPresenter_MembersInjector
+com/kotlin/order/service/impl/ShipAddressServiceImpl_Factory.java
+ com.kotlin.order.service.impl.ShipAddressServiceImpl_Factory
+com/kotlin/order/presenter/OrderListPresenter_Factory.java
+ com.kotlin.order.presenter.OrderListPresenter_Factory
+com/kotlin/order/ui/activity/OrderConfirmActivity_MembersInjector.java
+ com.kotlin.order.ui.activity.OrderConfirmActivity_MembersInjector
+com/kotlin/order/ui/activity/OrderDetailActivity_MembersInjector.java
+ com.kotlin.order.ui.activity.OrderDetailActivity_MembersInjector
+com/kotlin/order/service/impl/ShipAddressServiceImpl_MembersInjector.java
+ com.kotlin.order.service.impl.ShipAddressServiceImpl_MembersInjector
+com/kotlin/order/data/repository/ShipAddressRepository_Factory.java
+ com.kotlin.order.data.repository.ShipAddressRepository_Factory
+com/kotlin/order/presenter/EditShipAddressPresenter_MembersInjector.java
+ com.kotlin.order.presenter.EditShipAddressPresenter_MembersInjector
+com/kotlin/order/presenter/OrderDetailPresenter_Factory.java
+ com.kotlin.order.presenter.OrderDetailPresenter_Factory
+com/kotlin/order/service/impl/OrderServiceImpl_Factory.java
+ com.kotlin.order.service.impl.OrderServiceImpl_Factory
+com/kotlin/order/ui/activity/ShipAddressEditActivity_MembersInjector.java
+ com.kotlin.order.ui.activity.ShipAddressEditActivity_MembersInjector
+com/kotlin/order/BuildConfig.java
+ com.kotlin.order.BuildConfig
+com/kotlin/order/injection/component/DaggerOrderComponent.java
+ com.kotlin.order.injection.component.DaggerOrderComponent
+ com.kotlin.order.injection.component.DaggerOrderComponent$1
+ com.kotlin.order.injection.component.DaggerOrderComponent$Builder
+ com.kotlin.order.injection.component.DaggerOrderComponent$com_kotlin_base_injection_component_ActivityComponent_context
+ com.kotlin.order.injection.component.DaggerOrderComponent$com_kotlin_base_injection_component_ActivityComponent_lifecycleProvider
+com/kotlin/order/service/impl/OrderServiceImpl_MembersInjector.java
+ com.kotlin.order.service.impl.OrderServiceImpl_MembersInjector
+com/kotlin/order/presenter/ShipAddressPresenter_MembersInjector.java
+ com.kotlin.order.presenter.ShipAddressPresenter_MembersInjector
+com/kotlin/order/injection/module/OrderModule_ProvideOrderserviceFactory.java
+ com.kotlin.order.injection.module.OrderModule_ProvideOrderserviceFactory
+com/kotlin/order/injection/component/DaggerShipAddressComponent.java
+ com.kotlin.order.injection.component.DaggerShipAddressComponent
+ com.kotlin.order.injection.component.DaggerShipAddressComponent$1
+ com.kotlin.order.injection.component.DaggerShipAddressComponent$Builder
+ com.kotlin.order.injection.component.DaggerShipAddressComponent$com_kotlin_base_injection_component_ActivityComponent_context
+ com.kotlin.order.injection.component.DaggerShipAddressComponent$com_kotlin_base_injection_component_ActivityComponent_lifecycleProvider
+com/kotlin/order/presenter/ShipAddressPresenter_Factory.java
+ com.kotlin.order.presenter.ShipAddressPresenter_Factory
+com/kotlin/order/ui/activity/ShipAddressActivity_MembersInjector.java
+ com.kotlin.order.ui.activity.ShipAddressActivity_MembersInjector
+com/kotlin/order/data/repository/OrderRepository_Factory.java
+ com.kotlin.order.data.repository.OrderRepository_Factory
+com/kotlin/order/presenter/OrderConfirmPresenter_Factory.java
+ com.kotlin.order.presenter.OrderConfirmPresenter_Factory
+com/kotlin/order/injection/module/ShipAddressModule_ProvideShipAddressserviceFactory.java
+ com.kotlin.order.injection.module.ShipAddressModule_ProvideShipAddressserviceFactory
+com/kotlin/order/ui/fragment/OrderFragment_MembersInjector.java
+ com.kotlin.order.ui.fragment.OrderFragment_MembersInjector

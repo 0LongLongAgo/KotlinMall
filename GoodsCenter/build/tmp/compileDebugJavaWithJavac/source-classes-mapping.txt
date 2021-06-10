@@ -1,0 +1,68 @@
+com/kotlin/goods/service/impl/CartServiceImpl_MembersInjector.java
+ com.kotlin.goods.service.impl.CartServiceImpl_MembersInjector
+com/kotlin/goods/presenter/GoodsListPresenter_MembersInjector.java
+ com.kotlin.goods.presenter.GoodsListPresenter_MembersInjector
+com/kotlin/goods/injection/module/GoodsModule_ProvideGoodserviceFactory.java
+ com.kotlin.goods.injection.module.GoodsModule_ProvideGoodserviceFactory
+com/kotlin/goods/service/impl/CategoryServiceImpl_MembersInjector.java
+ com.kotlin.goods.service.impl.CategoryServiceImpl_MembersInjector
+com/kotlin/goods/presenter/GoodsDetailPresenter_Factory.java
+ com.kotlin.goods.presenter.GoodsDetailPresenter_Factory
+com/kotlin/goods/ui/fragment/CartFragment_MembersInjector.java
+ com.kotlin.goods.ui.fragment.CartFragment_MembersInjector
+com/kotlin/goods/data/repository/CategoryRepository_Factory.java
+ com.kotlin.goods.data.repository.CategoryRepository_Factory
+com/kotlin/goods/presenter/GoodsListPresenter_Factory.java
+ com.kotlin.goods.presenter.GoodsListPresenter_Factory
+com/kotlin/goods/data/repository/CartRepository_Factory.java
+ com.kotlin.goods.data.repository.CartRepository_Factory
+com/kotlin/goods/presenter/CartListPresenter_MembersInjector.java
+ com.kotlin.goods.presenter.CartListPresenter_MembersInjector
+com/kotlin/goods/data/repository/GoodsRepository_Factory.java
+ com.kotlin.goods.data.repository.GoodsRepository_Factory
+com/kotlin/goods/presenter/CategoryPresenter_Factory.java
+ com.kotlin.goods.presenter.CategoryPresenter_Factory
+com/kotlin/goods/presenter/CategoryPresenter_MembersInjector.java
+ com.kotlin.goods.presenter.CategoryPresenter_MembersInjector
+com/kotlin/goods/service/impl/GoodsServiceImpl_MembersInjector.java
+ com.kotlin.goods.service.impl.GoodsServiceImpl_MembersInjector
+com/kotlin/goods/injection/component/DaggerCartComponent.java
+ com.kotlin.goods.injection.component.DaggerCartComponent
+ com.kotlin.goods.injection.component.DaggerCartComponent$1
+ com.kotlin.goods.injection.component.DaggerCartComponent$Builder
+ com.kotlin.goods.injection.component.DaggerCartComponent$com_kotlin_base_injection_component_ActivityComponent_context
+ com.kotlin.goods.injection.component.DaggerCartComponent$com_kotlin_base_injection_component_ActivityComponent_lifecycleProvider
+com/kotlin/goods/injection/module/CartModule_ProvideCartserviceFactory.java
+ com.kotlin.goods.injection.module.CartModule_ProvideCartserviceFactory
+com/kotlin/goods/service/impl/CategoryServiceImpl_Factory.java
+ com.kotlin.goods.service.impl.CategoryServiceImpl_Factory
+com/kotlin/goods/presenter/CartListPresenter_Factory.java
+ com.kotlin.goods.presenter.CartListPresenter_Factory
+com/kotlin/goods/service/impl/GoodsServiceImpl_Factory.java
+ com.kotlin.goods.service.impl.GoodsServiceImpl_Factory
+com/kotlin/goods/injection/module/CategoryModule_ProvideCategoryServiceFactory.java
+ com.kotlin.goods.injection.module.CategoryModule_ProvideCategoryServiceFactory
+com/kotlin/goods/presenter/GoodsDetailPresenter_MembersInjector.java
+ com.kotlin.goods.presenter.GoodsDetailPresenter_MembersInjector
+com/kotlin/goods/BuildConfig.java
+ com.kotlin.goods.BuildConfig
+com/kotlin/goods/service/impl/CartServiceImpl_Factory.java
+ com.kotlin.goods.service.impl.CartServiceImpl_Factory
+com/kotlin/goods/ui/activity/GoodsActivity_MembersInjector.java
+ com.kotlin.goods.ui.activity.GoodsActivity_MembersInjector
+com/kotlin/goods/injection/component/DaggerGoodsComponent.java
+ com.kotlin.goods.injection.component.DaggerGoodsComponent
+ com.kotlin.goods.injection.component.DaggerGoodsComponent$1
+ com.kotlin.goods.injection.component.DaggerGoodsComponent$Builder
+ com.kotlin.goods.injection.component.DaggerGoodsComponent$com_kotlin_base_injection_component_ActivityComponent_context
+ com.kotlin.goods.injection.component.DaggerGoodsComponent$com_kotlin_base_injection_component_ActivityComponent_lifecycleProvider
+com/kotlin/goods/ui/fragment/CategoryFragment_MembersInjector.java
+ com.kotlin.goods.ui.fragment.CategoryFragment_MembersInjector
+com/kotlin/goods/ui/fragment/GoodsDetailTabOneFragment_MembersInjector.java
+ com.kotlin.goods.ui.fragment.GoodsDetailTabOneFragment_MembersInjector
+com/kotlin/goods/injection/component/DaggerCategoryComponent.java
+ com.kotlin.goods.injection.component.DaggerCategoryComponent
+ com.kotlin.goods.injection.component.DaggerCategoryComponent$1
+ com.kotlin.goods.injection.component.DaggerCategoryComponent$Builder
+ com.kotlin.goods.injection.component.DaggerCategoryComponent$com_kotlin_base_injection_component_ActivityComponent_context
+ com.kotlin.goods.injection.component.DaggerCategoryComponent$com_kotlin_base_injection_component_ActivityComponent_lifecycleProvider

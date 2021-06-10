@@ -1,0 +1,2 @@
+com/kotlin/mall/BuildConfig.java
+ com.kotlin.mall.BuildConfig

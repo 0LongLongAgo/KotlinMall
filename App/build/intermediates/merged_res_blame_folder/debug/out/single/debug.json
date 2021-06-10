@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_share.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_share.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout_fragment_me.xml.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_order_wait_pay.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order_wait_pay.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_scan.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_scan.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_order_completed.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order_completed.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_order_wait_confirm.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order_wait_confirm.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_container_bg.jpeg.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\home_container_bg.jpeg"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_order.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_setting.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_special.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_special.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout_layout_topic_item.xml.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\layout\\layout_topic_item.xml"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_me_header.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\bg_me_header.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout_layout_home_discount_item.xml.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\layout\\layout_home_discount_item.xml"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_address.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_address.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\BaiduYunDownload\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\BaiduYunDownload\\KotlinMall\\App\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

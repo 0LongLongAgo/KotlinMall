@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: ren.qinc.numberbutton:numberbutton:0.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/446ec411843c3e19e047028906891c1c/numberbutton-0.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/446ec411843c3e19e047028906891c1c/numberbutton-0.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/446ec411843c3e19e047028906891c1c/numberbutton-0.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ren.qinc.numberbutton/numberbutton/0.0.1/c02e27c147b1a69f1579cb0defe8fb4d1c004164/numberbutton-0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ren.qinc.numberbutton/numberbutton/0.0.1/609677259816d1d1c36c1a1cd266517d94fa6961/numberbutton-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

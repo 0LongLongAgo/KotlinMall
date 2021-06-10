@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+anim news_bottom_in
+anim news_bottom_out
+dimen msg_icon_height
+dimen msg_icon_width
+dimen news_height
+drawable corner_news_bg
+drawable icon_news
+id mFlipperView
+id mMessageRv
+id mMsgContentTv
+id mMsgIconIv
+id mMsgTimeTv
+id mMsgTitleTv
+id mMultiStateView
+layout fragment_message
+layout layout_message_item
+layout layout_news_flipper
+string app_name

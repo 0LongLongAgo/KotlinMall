@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+drawable pay_type_alipay
+drawable pay_type_bank
+drawable pay_type_weixin
+id mAlipayTypeTv
+id mBankCardTypeTv
+id mHeaderBar
+id mPayBtn
+id mTotalPriceTv
+id mWeixinTypeTv
+layout activity_cash_register
+string app_name
+style OrderPayTypeStyle

@@ -1,0 +1,25 @@
+com/kotlin/base/injection/module/LifecycleProviderModule_ProvideLifecycleProviderFactory.java
+ com.kotlin.base.injection.module.LifecycleProviderModule_ProvideLifecycleProviderFactory
+com/kotlin/base/ui/activity/BaseTakePhotoActivity_MembersInjector.java
+ com.kotlin.base.ui.activity.BaseTakePhotoActivity_MembersInjector
+com/kotlin/base/ui/fragment/BaseMvpFragment_MembersInjector.java
+ com.kotlin.base.ui.fragment.BaseMvpFragment_MembersInjector
+com/kotlin/base/ui/activity/BaseMvpActivity_MembersInjector.java
+ com.kotlin.base.ui.activity.BaseMvpActivity_MembersInjector
+com/kotlin/base/injection/component/DaggerAppComponent.java
+ com.kotlin.base.injection.component.DaggerAppComponent
+ com.kotlin.base.injection.component.DaggerAppComponent$1
+ com.kotlin.base.injection.component.DaggerAppComponent$Builder
+com/kotlin/base/injection/component/DaggerActivityComponent.java
+ com.kotlin.base.injection.component.DaggerActivityComponent
+ com.kotlin.base.injection.component.DaggerActivityComponent$1
+ com.kotlin.base.injection.component.DaggerActivityComponent$Builder
+ com.kotlin.base.injection.component.DaggerActivityComponent$com_kotlin_base_injection_component_AppComponent_context
+com/kotlin/base/presenter/BasePresenter_MembersInjector.java
+ com.kotlin.base.presenter.BasePresenter_MembersInjector
+com/kotlin/base/BuildConfig.java
+ com.kotlin.base.BuildConfig
+com/kotlin/base/injection/module/AppModule_ProvideContextFactory.java
+ com.kotlin.base.injection.module.AppModule_ProvideContextFactory
+com/kotlin/base/injection/module/ActivityModule_ProvideActivityFactory.java
+ com.kotlin.base.injection.module.ActivityModule_ProvideActivityFactory
